@@ -219,3 +219,8 @@ Project ini menggunakan:
 - CSS3 → Styling tampilan
 - Bootstrap 5 → Grid system, navbar, progress bar, responsive design
 - Vue JS 3 (CDN) → Interpolation {{ }}, data(), v-for, dan mount('#app')
+
+# Dibuat Oleh
+Nama: Deny Candra Kasuma
+Mata Kuliah: Pemrograman Aplikasi Bergerak  
+Sistem Informasi A
