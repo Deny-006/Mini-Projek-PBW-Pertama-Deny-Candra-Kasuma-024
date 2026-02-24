@@ -1,4 +1,4 @@
-# 🎨 Website Portofolio – Deny Candra Kasuma
+# 🎨 Website Portofolio
 
 Project ini merupakan website portfolio statis yang dibuat menggunakan HTML, CSS, Bootstrap 5, dan Vue JS (CDN). Website ini memiliki beberapa section utama yaitu:
 
