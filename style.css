@@ -1,0 +1,124 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: radial-gradient(circle at top left, #1a1a2e, #0d0d15 60%);
+  color: #ffffff;
+  scroll-behavior: smooth;
+}
+
+/* NAVBAR */
+.custom-nav {
+  background: rgba(13,13,21,0.85);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid #1f1f2e;
+}
+
+.logo-text {
+  color: #c084fc !important;
+}
+
+.nav-link {
+  color: #aaa !important;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-top: 100px; 
+}
+
+.small-text {
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  color: #c084fc;
+  opacity: 0.8;
+}
+
+.main-name {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.role-text {
+  color: #c084fc;
+  margin-top: 10px;
+}
+
+.hero-desc {
+  color: #bbb;
+  max-width: 500px;
+}
+
+.hero-img {
+  width: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+  box-shadow: 0 20px 40px rgba(192,132,252,0.2);
+}
+
+/* BUTTON */
+.btn-custom {
+  background: linear-gradient(45deg,#7c3aed,#c084fc);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 30px;
+  transition: 0.3s;
+}
+
+.btn-custom:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(192,132,252,0.4);
+}
+
+/* SECTION */
+.section {
+  padding: 100px 0;
+}
+
+.section-dark {
+  padding: 100px 0;
+  background: #141421;
+}
+
+.section-title {
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+
+/* PROGRESS */
+.progress {
+  height: 6px;
+  background: #222;
+}
+
+.progress-bar {
+  background: linear-gradient(90deg,#7c3aed,#c084fc);
+}
+
+/* WORK CARD */
+.work-card {
+  background: #1b1b2b;
+  border-radius: 15px;
+  transition: 0.3s;
+  border: 1px solid #2a2a40;
+}
+
+.work-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(124,58,237,0.3);
+}
+
+/* FOOTER */
+.footer {
+  background: #141421;
+  color: #888;
+}
