@@ -10,11 +10,25 @@ Website dirancang menggunakan struktur dasar HTML yang benar serta styling terpi
 
 # 📂 Struktur Repository
 
+<img width="210" height="140" alt="image" src="https://github.com/user-attachments/assets/2d65fa96-7693-43f8-912b-1641d424d338" />
+
 - File index.html berisi struktur website dan script Vue JS.
 - File style.css berisi seluruh styling tampilan.
 - Folder images berisi gambar profil yang digunakan pada Hero Section.
 
 # 🖼️ Dokumentasi Tampilan Website
+
+- Tampilan Home (Hero Section)
+
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/8fc9f5f1-546c-4059-b313-d9f4c8daf185" />
+
+- Tampilan About Me (Professional Skills)
+
+<img width="1919" height="676" alt="image" src="https://github.com/user-attachments/assets/878afbc6-4063-4868-ad4a-00666a99df26" />
+
+- Tampilan Certificates (Selected Projects)
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/07970e10-14bf-414a-87b9-235f6131accc" />
 
 # 🖥️ Penjelasan Setiap Section / Fitur
 ### 1. Navbar
@@ -222,5 +236,5 @@ Project ini menggunakan:
 
 # Dibuat Oleh
 Nama: Deny Candra Kasuma
-Mata Kuliah: Pemrograman Aplikasi Bergerak  
+Mata Kuliah: Pemrograman Berbasis Web  
 Sistem Informasi A
